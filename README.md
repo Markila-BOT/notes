@@ -7,6 +7,7 @@ A curated collection of technical notes and documentation for various programmin
 ### Programming Languages
 
 - [Node.js](./nodejs-notes.md)
+- [Node.js Interview Q&A](./nodejs-interview-qa.md)
 
 ### Coming Soon
 
@@ -18,7 +19,7 @@ A curated collection of technical notes and documentation for various programmin
 
 ### Frameworks & Libraries
 
-- React
+- [React](./react-notes.md) 🆕
 - Vue.js
 - Express.js
 - Django
